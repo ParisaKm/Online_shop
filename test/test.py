@@ -1,13 +1,8 @@
-import tkinter
-from tkinter import messagebox
 
-# This code is to hide the main tkinter window
-root = tkinter.Tk()
-root.withdraw()
-a = 'Parisa'
-# Message Box
-messagebox.showinfo(a, "Message")
-
+# str1="Hello"
+# str2="Hello"
+# str3="HELLO"
+# print (id(str1), id(str2), id(str3))
 # import warnings
 # import logging
 #
